@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+
+# Données : non versionnées (volumineuses ou non redistribuables)
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.gpkg
+*.zip
